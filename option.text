@@ -1,1 +1,6 @@
 git init 初始git
+git remote add origin http://xxxx 本地和远程仓库连接
+git branch xx     创建分支
+git checkout xxx  切换分支
+
+git checkout -b xxx 创建并切换分支
