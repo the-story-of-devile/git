@@ -4,3 +4,10 @@ git branch xx     创建分支
 git checkout xxx  切换分支
 
 git checkout -b xxx 创建并切换分支
+
+git merge xxx     合并某分支到当前分支
+
+git branch -d xxx 删除分支
+
+11111
+2222
